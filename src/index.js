@@ -102,12 +102,6 @@ const defaultStyles = StyleSheet.create({
   daySelectedText: {
     color: 'rgb(252, 252, 252)'
   },
-  dayCurrent: {
-
-  },
-  dayCurrentText: {
-
-  }
 });
 
 const dates = (startDate: ?moment, endDate: ?moment, focusedInput: 'startDate' | 'endDate') => {
