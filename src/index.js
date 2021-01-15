@@ -362,6 +362,7 @@ export default class Dates extends Component {
   }
 }
 
+
 Dates.defaultProps = {
   weekHeader: undefined,
   header: undefined,
